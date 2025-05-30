@@ -1,0 +1,18 @@
+{
+  "name": "de.codesmile.nlua",
+  "displayName": "NLua",
+  "description": "Install NLua without NuGet via Unity Package Manager. No customizations.",
+  "version": "1.7.5",
+  "unity": "2021.3",
+  "unityRelease": "3f1",
+  "author": {
+    "name": "Steffen Itterheim aka 'CodeSmile' (Unity MVP, Self-Employed)",
+    "email": "steffen@steffenitterheim.de",
+    "url": "https://github.com/CodeSmile-0000011110110111/de.codesmile.nlua"
+  },
+  "changelogUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.nlua/tree/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.nlua/tree/main/README.md",
+  "licensesUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.nlua/tree/main/LICENSE",
+  "dependencies": {},
+  "relatedPackages": {}
+}
