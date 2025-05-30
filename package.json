@@ -1,7 +1,7 @@
 {
   "name": "de.codesmile.nlua",
   "displayName": "NLua",
-  "description": "Install NLua without NuGet via Unity Package Manager. No customizations.",
+  "description": "Install NLua without NuGet via Unity Package Manager. No customizations. Includes KeraLua 1.4.4.",
   "version": "1.7.5",
   "unity": "2021.3",
   "unityRelease": "3f1",
